@@ -64,3 +64,11 @@
         flex-flow: column;
     }
 }
+
+/* Ipad Pro 10.5inch Problem */
+
+@media all and (max-width: 1024) {
+    .author-intro nav {
+        margin-bottom: -1rem;
+    }
+}
