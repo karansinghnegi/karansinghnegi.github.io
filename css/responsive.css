@@ -1,11 +1,16 @@
 
 @media all and (max-width: 907px) {
+
     .author-img img {
         max-width: none;
     }
 
     .about-author nav ul li {
         padding: 0.2rem;
+    }
+
+    .social-links li {
+        margin-right: 0.7rem ;
     }
 
 }
