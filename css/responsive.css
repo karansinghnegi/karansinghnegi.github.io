@@ -29,6 +29,11 @@
 }
 
 @media all and (max-width: 764px) {
+
+    .wrapper {
+        width: 100%;
+    }
+    
     .main-header{
         flex-direction: column;
     }
