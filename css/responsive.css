@@ -78,4 +78,9 @@
     .author-img img {
         max-width: none;
     }
+
+    .about-author nav ul li {
+        border: 1px solid red;
+        padding: 0.2rem;
+    }
 }
