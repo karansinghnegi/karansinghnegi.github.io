@@ -15,6 +15,15 @@
 
 }
 
+@media all and (max-width: 847px) {
+    .author-img-caption {
+        margin: 0;
+        padding: 1rem;
+    }
+}
+
+
+
 @media all and (max-width: 777px) {
     .author-img {
         display: inline-grid;
@@ -28,7 +37,7 @@
     }
 }
 
-@media all and (max-width: 700px) {
+@media all and (max-width: 764px) {
     .main-header{
         flex-direction: column;
     }
