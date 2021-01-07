@@ -20,7 +20,7 @@
     .author-img-caption {
         margin: 1rem;
         padding: 0;
-        display: unset;
+        /* display: unset; */
         justify-content: unset;
         align-items: unset;
     }
