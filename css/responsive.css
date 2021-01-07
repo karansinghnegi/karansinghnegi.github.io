@@ -3,7 +3,6 @@
 
     .author-img img {
         max-width: none;
-        /* width: 100%; */
     }
 
     .about-author nav ul li {
@@ -15,18 +14,6 @@
     }
 
 }
-
-/* @media all and (max-width: 847px) {
-    .author-img-caption {
-        margin: 1rem;
-        padding: 0;
-        /* display: unset; */
-        justify-content: unset;
-        align-items: unset;
-    }
-}
- */
-
 
 @media all and (max-width: 777px) {
     .author-img {
