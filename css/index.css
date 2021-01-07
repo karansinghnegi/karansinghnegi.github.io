@@ -49,7 +49,7 @@ main {
     color: #fff;
     font-weight: 0.3rem;
     background-color: rgba(41, 41, 41, 0.9);
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 /* Section about author and his social network */
