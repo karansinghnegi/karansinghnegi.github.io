@@ -50,6 +50,10 @@
 
 @media all and (max-width: 604px) {
 
+    .wrapper {
+        width: 100%;
+    }
+
     .nav-social {
         padding-right: 2rem;
     }
