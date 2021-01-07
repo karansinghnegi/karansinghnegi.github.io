@@ -16,7 +16,7 @@
 
 }
 
-@media all and (max-width: 847px) {
+/* @media all and (max-width: 847px) {
     .author-img-caption {
         margin: 1rem;
         padding: 0;
@@ -25,7 +25,7 @@
         align-items: unset;
     }
 }
-
+ */
 
 
 @media all and (max-width: 777px) {
