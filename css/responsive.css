@@ -15,12 +15,12 @@
 
 }
 
-/* @media all and (max-width: 847px) {
+@media all and (max-width: 847px) {
     .author-img-caption {
-        margin: 0;
-        padding: 1rem;
+        margin: 1rem;
+        padding: 0;
     }
-} */
+}
 
 
 
