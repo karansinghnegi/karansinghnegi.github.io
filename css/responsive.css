@@ -33,7 +33,7 @@
     .wrapper {
         width: 100%;
     }
-    
+
     .main-header{
         flex-direction: column;
     }
@@ -70,4 +70,7 @@
         margin-right: 0.4rem ;
     }
 
+    .footer a {
+        border: none;
+    }
 }
